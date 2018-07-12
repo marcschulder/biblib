@@ -4,3 +4,9 @@ __pycache__/
 /build/
 /dist/
 MANIFEST
+
+# PyCharm files
+.idea
+
+# Temp files
+*~
